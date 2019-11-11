@@ -12,5 +12,6 @@
 3. Adding Items.
 4. Displaying the Items.
 5. Styling our App.
-#tool#
+
+#tool
 React js
