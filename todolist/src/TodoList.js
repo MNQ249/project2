@@ -13,8 +13,6 @@ class TodoList extends Component {
         this.onDelete = this.onDelete.bind(this)
     }
 
-    
-
     addItem(e){
         let date = Date.now()
         if(this._inputElement.value !== ""){
